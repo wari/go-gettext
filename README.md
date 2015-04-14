@@ -1,4 +1,4 @@
 Gettext implementation in Go
 ============================
 
-Documentation: http://go.pkgdoc.org/github.com/samuel/go-gettext/gettext
+Documentation: http://godoc.org/github.com/samuel/go-gettext/gettext
